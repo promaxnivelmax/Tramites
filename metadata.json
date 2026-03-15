@@ -1,0 +1,5 @@
+{
+  "name": "Cv Builder",
+  "description": "Una aplicación web para crear y gestionar hojas de vida profesionales con diferentes diseños y exportación a PDF.",
+  "requestFramePermissions": []
+}
